@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Gabriel</h2>
+<div align="center"><h2 align="left">Hi 👋 I'm Gabriel</h2></div>
 
 ###
 
@@ -35,6 +35,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielDK-vish/GabrielDK-vish/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
