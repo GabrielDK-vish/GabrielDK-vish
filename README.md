@@ -1,17 +1,29 @@
-<div align="center"><h2>Hi 👋 I'm Gabriel</h2></div>
-
-###
+<div align="center"><h2>Hi</h2></div>
+<p align="center">Sou Gabriel nascido em 1999, sou graduado em banco de dados e no momento estou cursando análise e desenvolvimento de sistemas.<br>
+Atuo como assistente de dados em uma pequena empresa desde de  Dez/2024, meus conhecimento são voltados para a área<br>
+de dados, mais especificamente engenharia de dados voltada para cloud (GCP), utilizando ferramentas nativas e open source<br>
+além disso também tenho conhecimento de soluções back-end utilizando python e golang, não sou proeficiente em front-end mas<br>
+consigo ajudar com soluções básicas tanto com planejamento, quanto com a manutenção.
+<p align="center">
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDK-vish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDK-vish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielDK-vish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original.svg" height="45" alt="Goo logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="18" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="45" alt="ts logo"  />
+  <img width="18" /><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
@@ -19,7 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
 </div>
+
+
 
 ###
 
