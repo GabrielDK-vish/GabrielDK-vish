@@ -1,10 +1,22 @@
 <div align="center"><h2>Data Engineer & Back-end Developer</h2></div>
+<br>
+<br>
+<div align="center"><h3>ENG</h3></div>
+<p align="center">I am Gabriel, born in 1999. I have a degree in Database and I am currently pursuing a degree in Systems Analysis and Development.<br>
+I have been working as a data assistant in a small company since December 2024.<br>
+My knowledge is focused on the data field, specifically cloud-based data engineering (GCP), using both native and open-source tools.<br>
+In addition, I also have knowledge of back-end solutions using Python and Golang.<br>
+I am not proficient in front-end development, but I can assist with basic solutions in both planning and maintenance.<br>
+</p>
+<br>
+<br>
+<div align="center"><h3>PT - BR</h3></div>
 <p align="center">Sou Gabriel nascido em 1999, sou graduado em banco de dados e no momento estou cursando análise e desenvolvimento de sistemas.<br>
 Atuo como assistente de dados em uma pequena empresa desde de  Dez/2024, meus conhecimento são voltados para a área<br>
 de dados, mais especificamente engenharia de dados voltada para cloud (GCP), utilizando ferramentas nativas e open source<br>
 além disso também tenho conhecimento de soluções back-end utilizando python e golang, não sou proeficiente em front-end mas<br>
 consigo ajudar com soluções básicas tanto com planejamento, quanto com a manutenção.
-<p align="center">
+</p>
 <br>
 <br>
 <br>
