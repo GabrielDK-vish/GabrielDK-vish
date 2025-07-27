@@ -1,4 +1,4 @@
-<div align="center"><h2>Hi</h2></div>
+<div align="center"><h2>Data Engineer & Back-end Developer</h2></div>
 <p align="center">Sou Gabriel nascido em 1999, sou graduado em banco de dados e no momento estou cursando análise e desenvolvimento de sistemas.<br>
 Atuo como assistente de dados em uma pequena empresa desde de  Dez/2024, meus conhecimento são voltados para a área<br>
 de dados, mais especificamente engenharia de dados voltada para cloud (GCP), utilizando ferramentas nativas e open source<br>
